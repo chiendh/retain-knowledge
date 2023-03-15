@@ -1,12 +1,8 @@
-![logo](_media/icon.svg)
+![avata](_images/avata.JPG)
 
-# docsify <small>4.13.0</small>
+# ChienDH Retain Knowledge
 
 > A magical documentation site generator.
-
-- Simple and lightweight
-- No statically built html files
-- Multiple themes
 
 [GitHub](https://github.com/docsifyjs/docsify/)
 [Getting Started](#docsify)

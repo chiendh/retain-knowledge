@@ -62,8 +62,7 @@
     }
   },
   "lint-staged": {
-    "*.js": "eslint --fix",
-    "*.html": "eslint --fix"
+    "*.js": "eslint --fix"
   },
   "dependencies": {
     "marked": "^1.2.9",

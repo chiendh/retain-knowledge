@@ -1,8 +1,8 @@
-![avata](_images/avata.JPG)
+<img src="_images/avata.JPG" width="300">
 
 # ChienDH Retain Knowledge
 
-> A magical documentation site generator.
+> A magical documentation.
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/chiendh/retain-knowledge)
 [Getting Started](#docsify)

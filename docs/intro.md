@@ -8,21 +8,21 @@ In this web page, I will be sharing my experiences in software development, cat 
 
 My first job as a software developer was both exciting and challenging. I had to learn a lot on the job and adapt to the fast-paced environment. In this section, I will discuss the challenges I faced and how I overcame them, as well as some of the lessons I learned during this time.
 
-### Mid-Career (Year 2016-2019)
+### [Mid-Career (Year 2016-2019)](software-dev/middle.md)
 
 During my mid-career as a software developer, I had the opportunity to work on some key projects and take on more responsibilities. I will share some of the challenges I faced during this time and how I addressed them, as well as my role in these projects and the outcomes.
 
-### Senior Developer (Year 2020-2023)
+### [Project Leader (Year 2020-2023)](software-dev/advance.md)
 
 Currently, I am working as a senior developer and have been involved in larger and more complex projects. In this section, I will discuss my role as a senior developer, the outcomes of some of these projects, and the best practices, tools, and techniques that I have learned along the way.
 
 ## Cat Breeding
 
-### Early Years (Year 2017-2018)
+### [Early Years (Year 2017-2018)](cat-breeder/begin.md)
 
 I became interested in cat breeding as a hobby and had to learn a lot from scratch. In this section, I will talk about the challenges I faced as a beginner breeder and how I overcame them, as well as some of the lessons I learned during this time.
 
-### Mid-Career (Year 2018-2022)
+### [Mid-Career (Year 2018-2022)](cat-breeder/middle.md)
 
 As a more experienced breeder, I had the opportunity to work on some key projects and achieve some notable outcomes. I will share some of the challenges I faced during this time and how I addressed them, as well as the outcomes of these projects and the breeding techniques that I have learned.
 

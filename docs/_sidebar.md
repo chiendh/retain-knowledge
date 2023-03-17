@@ -12,6 +12,7 @@
   - [Early Years (Year 2014-2015)](software-dev/begin.md)
   - [Mid-Career (Year 2016-2019)](software-dev/middle.md)
   - [Project Leader (Year 2020-Now)](software-dev/advance.md)
+  - [Good quotes](software-dev/quotes.md)
 
 - Cat Breeder
 
